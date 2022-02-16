@@ -31,7 +31,7 @@ usage: embed.py [-checkpoint] [-trainset] [-testset] [-dim]
                 [-lr_type {scale,constant}] [-train_threads]
                 [-margin] [-eval {reconstruction,hypernymy}]
 
-Description of the arguments::
+Description of the arguments:
   -checkpoint           The path to store the embeddings and the model checkpoint
   -trainset             The path of the training set, default='./data/ICD10/train_taxonomy.csv'
   -trainset             The path of the test set, default='./data/ICD10/test_taxonomy.csv'
