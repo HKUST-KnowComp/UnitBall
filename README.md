@@ -19,7 +19,7 @@ python setup.py build_ext --inplace
 ## Data
 We provide synthetic data (balanced trees and compressed graphs) in `./data/synthetic` and real-world data ([ICD10](https://www.who.int/standards/classifications/classification-of-diseases), [YAGO3-wikiObjects](https://yago-knowledge.org/), [WordNet-noun](https://wordnet.princeton.edu/), [Xiphophorus](https://toytree.readthedocs.io/en/latest/7-multitrees.html)) in `./data`. Please refer to our paper for the data construction details.
 
-##Usage
+## Usage
 To train and evaluate the embedding model, run the embed.py file.
 ```bash
 usage: embed.py [-checkpoint] [-trainset] [-testset] [-dim]
