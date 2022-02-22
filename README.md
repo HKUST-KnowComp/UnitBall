@@ -1,6 +1,6 @@
 # Unit Model Model for Learning Complex Hyperbolic Embeddings
 
-Source code of the preprint **Unit Ball Model for Embedding Hierarchical Structures in the Complex Hyperbolic Space**.
+Source code of the preprint [Unit Ball Model for Embedding Hierarchical Structures in the Complex Hyperbolic Space](https://arxiv.org/abs/2105.03966).
 
 This project is built upon the [Poincare embeddings](https://github.com/facebookresearch/poincare-embeddings).
 
